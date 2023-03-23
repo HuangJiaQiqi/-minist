@@ -1,1 +1,1 @@
-# -minist
+# minist
